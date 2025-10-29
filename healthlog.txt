@@ -1,0 +1,134 @@
+==========================================
+🩺 SYSTEM HEALTH REPORT - 2025-10-29 15:53:43
+==========================================
+📅 Date & Time: Wed, Oct 29, 2025 15:53:43
+
+⏱️ Uptime:
+
+⚙️ CPU Load (from top):
+
+💾 Memory Usage (MB):
+
+💽 Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  145G  40% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🧩 Service Status:
+❌ nginx is NOT running
+❌ sshd is NOT running
+❌ docker is NOT running
+
+==========================================
+
+==========================================
+🩺 SYSTEM HEALTH REPORT - 2025-10-29 15:55:24
+==========================================
+📅 Date & Time: Wed, Oct 29, 2025 15:55:24
+
+⏱️ Uptime:
+
+⚙️ CPU Load (from top):
+
+💾 Memory Usage (MB):
+
+💽 Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  145G  40% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🧩 Service Status:
+❌ nginx is NOT running
+❌ sshd is NOT running
+❌ docker is NOT running
+
+==========================================
+
+==========================================
+🩺 SYSTEM HEALTH REPORT - 2025-10-29 15:56:54
+==========================================
+📅 Date & Time: Wed, Oct 29, 2025 15:56:55
+
+⏱️ Uptime:
+
+⚙️ CPU Load (from top):
+
+💾 Memory Usage (MB):
+free -m not available on this system
+
+💽 Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   92G  147G  39% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🧩 Service Status:
+❌ nginx is NOT running
+❌ sshd is NOT running
+❌ docker is NOT running
+
+==========================================
+
+==========================================
+🩺 SYSTEM HEALTH REPORT - 2025-10-29 17:12:35
+==========================================
+
+📅 Date & Time: Wed, Oct 29, 2025 17:12:36
+
+⏱️ Uptime:
+Uptime: 
+
+⚙️ CPU Load (from top):
+CPU Load: % used
+
+💾 Memory Usage (MB):
+
+💽 Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   96G  143G  41% /
+
+🔥 Top 5 Memory-Consuming Processes:
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1083       1    1083      20360  cons0     197609 15:52:36 /usr/bin/bash
+     1422    1384    1384      19692  cons3     197609 17:12:39 /usr/bin/sort
+     1421    1384    1384      19384  cons3     197609 17:12:39 /usr/bin/ps
+     1200       1    1200      17444  cons2     197609 15:55:20 /usr/bin/bash
+     1275       1    1275      16996  cons3     197609 15:56:45 /usr/bin/bash
+
+🧩 Service Status:
+❌ nginx is NOT running
+❌ sshd is NOT running
+❌ docker is NOT running
+
+==========================================
+==========================================
+🩺 SYSTEM HEALTH REPORT - 2025-10-29 17:14:39
+==========================================
+
+📅 Date & Time: Wed, Oct 29, 2025 17:14:39
+
+⏱️ Uptime:
+System Boot Time:              27-Oct-25, 10:07:45
+
+⚙️ CPU Load:
+10              
+
+
+💾 Memory Usage (MB):
+Total Physical Memory:         8,047 MB
+Available Physical Memory:     2,141 MB
+
+💽 Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   96G  143G  41% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🧩 Service Status:
+❌ nginx is NOT running
+❌ sshd is NOT running
+❌ docker is NOT running
+
+==========================================

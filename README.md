@@ -33,8 +33,9 @@ Results are displayed in a **clean, color-coded terminal report** and automatica
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/healthcheck.git
+git clone https://github.com/Sayyarahul/healthcheck.git
 cd healthcheck
+
 
 💬 Author
 👤 Developed by: Rahul Sayya
